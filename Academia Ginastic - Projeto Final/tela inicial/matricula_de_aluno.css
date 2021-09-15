@@ -22,10 +22,49 @@ div {
     margin-left: 150px;
 }
 
-input {
+/*input {
     margin: 5px;
     width: 260px;
     height: 25px;
+}*/
+
+#nome {
+    margin: 5px;
+    margin-left: 7px;
+    width: 450px;
+    height: 25px;
+}
+
+#cpf {
+    margin: 5px;
+    margin-left: 19px;
+    width: 450px;
+    height: 25px;
+}
+
+#email {
+    margin: 5px;
+    margin-left: 1px;
+    width: 450px;
+    height: 25px;
+}
+
+#datanasc {
+    margin: 5px;
+    width: 130px;
+    height: 25px;
+}
+
+#plano {
+    margin: 5px;
+    margin-left: 10px;
+    width: 450px;
+    height: 25px;
+}
+
+#finalizar {
+    margin-left: 400px;
+    margin-top: 30px;
 }
 
 button {
