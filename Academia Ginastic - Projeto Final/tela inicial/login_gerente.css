@@ -1,0 +1,93 @@
+body{
+    margin: auto;
+    background-color: black;
+    color: #fff;
+}
+#container1{
+    margin: auto;
+    width: 1000px;
+    height: 500px;
+    margin-top: 100px;
+    padding: 10px;
+    
+}
+
+#form_gerente{
+    width: 500px;
+    height: 500px;
+    
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+}
+
+form{
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    padding: 10px;
+}
+
+#usuario{
+    display: flex;
+    flex-direction: row;
+    border: 1 px solid red;
+    padding: 10px;
+    line-height: 20px;
+    font-size: 20px;
+    
+}
+
+#senha{
+    display: flex;
+    flex-direction: row;
+    border: 1 px solid red;
+    padding: 10px;
+    border-bottom: 5px;
+    font-size: 20px;
+}
+
+input{
+    width: 400px;
+    height: 20px;
+    margin-left: 10px;
+}
+
+a{
+    margin-top: 10px;
+    margin-left:300px;
+}
+
+img{
+    margin-top:10px;
+}
+
+#imagem{
+    margin: auto;
+    width: 150px;
+    height: 150px;
+    background: aqua;
+    border: solid 3px purple;
+}
+
+button{
+    margin-top: 20px;
+    width: 150px;
+    height: 30px;
+    background: aqua;
+    font-size: 17px;
+    border: solid 2px purple;
+    color:purple ;
+
+}
+
+button:hover{
+    background: purple;
+    border: solid 2px aqua;
+    color:aqua ; 
+
+
+}
+
+
+
